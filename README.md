@@ -2,9 +2,9 @@ This repository contains Python programs.
 
 Assignment 1:
 
-Task 1: Perform Basic Mathematical Operations
+Task 1: Perform Basic Mathematical Operations (Assignment1_Task1.py)
 
-Task 2: Create a Personalized Greeting
+Task 2: Create a Personalized Greeting (Assignment1_Task2.py)
 
 --------------------------------------
 
