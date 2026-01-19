@@ -10,9 +10,9 @@ Task 2: Create a Personalized Greeting
 
 Assignment 2:
 
- Task 1: Check if a Number is Even or Odd
+ Task 1: Check if a Number is Even or Odd (Assignment2_Task1.py)
  
- Task 2: Sum of Integers from 1 to 50 Using a Loop
+ Task 2: Sum of Integers from 1 to 50 Using a Loop (Assignment2_Task2.py)
 
 -----------------------------------------
 
